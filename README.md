@@ -45,7 +45,7 @@ Follow these steps to run the visualization:
    ```
 
 2. **Upload Dataset**:
-   - Add the IMDb dataset (`imdb_data.csv` or the relevant dataset) to the google drive directory.
+   - Add the IMDb dataset (`movie_metadata.csv`) to the google drive directory.
 
 3. **Open Google Colab**:
    - Upload the `movie_metadata.csv` file to Google Colab.
