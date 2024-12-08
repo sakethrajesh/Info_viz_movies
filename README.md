@@ -16,6 +16,17 @@ Visualizations include:
 1. **Choropleth Map of Global Movie Revenue**: Displays the distribution of movie revenues across countries.
 2. **Animated Choropleth Map**: Visualizes year-wise movie revenue trends across the globe.
 3. **Box Plot of IMDb Ratings by Country**: Explores IMDb rating distributions for movies from different countries.
+4. **Bar Chart of IMDb Scores Across Genres**  
+   Highlights differences in average IMDb ratings across various movie genres, helping users analyze genre-based trends.
+
+5. **Line Graph of IMDb Score Trends Over Time**  
+   Tracks IMDb score changes by genre over the years, identifying patterns in rating trends.
+
+6. **Choropleth Map and Bar Chart of Budgets, Genres, and Success**  
+   Combines a global map of budget and revenue distributions with a bar chart of IMDb scores by genre, analyzing how budget and genre influence movie success.
+
+7. **Sunburst Chart of Genre Distribution by Language**  
+   Visualizes the relationships between languages and genres, showing how genre popularity varies by language and identifying patterns in movie production.
 
 ## Requirements
 To run this project, ensure you have the following installed:
