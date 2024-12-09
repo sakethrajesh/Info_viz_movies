@@ -28,6 +28,9 @@ Visualizations include:
 7. **Sunburst Chart of Genre Distribution by Language**  
    Visualizes the relationships between languages and genres, showing how genre popularity varies by language and identifying patterns in movie production.
 
+8. **Correlation Heatmap of IMDb Scores, Critic Reviews, and Actor Likes**  
+   Visualizes correlations between IMDb scores, number of critic reviews, and actor likes.
+
 ## Requirements
 To run this project, ensure you have the following installed:
 
